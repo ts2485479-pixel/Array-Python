@@ -1,0 +1,2 @@
+# Array-Python
+Practices program 
