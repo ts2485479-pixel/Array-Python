@@ -1,2 +1,5 @@
-# Array-Python
-Practices program 
+arr = [10, 20, 30, 40, 50]
+
+for i in arr:
+    print(i)
+
